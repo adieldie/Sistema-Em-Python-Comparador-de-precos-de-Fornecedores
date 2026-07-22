@@ -1,1 +1,1 @@
-# Sistema-Em-Python-Comparador-de-pre-os-de-Fornecedores
+# Sistema-Em-Python-Comparador-de-preços-de-Fornecedores
